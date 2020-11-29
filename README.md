@@ -1,6 +1,6 @@
 # Zip Code mapping
   # Development Enivironment
-  A javascript/HTML development environment is easy to set up. I used the code editor brackets, which has a live server to run the website.
+  A javascript/HTML development environment is easy to set up. I used the code editor brackets, which has a live server to run the website. To run it, you could download the files into a directory and open them in chrome.
   # Database
   The database I used is called zippopotamus and contains data on zipcodes. https://www.zippopotam.us/
   # Resources
