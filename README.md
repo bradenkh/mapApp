@@ -7,3 +7,5 @@
   I followed the tutorials on https://developers.arcgis.com/labs/?product=javascript&topic=any. They were mostly helpful but a little bit confusing. I mostly copied the code and then dissected it myself to understand what was really going on.
   # Stretch Challenge
   The data in my program comes from a public server.
+  
+  A screenshot is included in the repository as screenshot.png
